@@ -4,6 +4,9 @@ title: "Cloud Security Engineer"
 email: "nicholas.wilfahrt@gmail.com"
 phone: "(763) 344-1946"
 location: "Minnetonka, MN"
+github: "https://github.com/Electronickss"
+linkedin: "https://www.linkedin.com/in/nickwilfahrt/"
+twitter: "https://twitter.com/ElectroNickss"
 ---
 
 ### **PROFESSIONAL SUMMARY**
