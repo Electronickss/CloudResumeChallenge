@@ -174,3 +174,5 @@ frontend/index.html
 
 # OS
 .DS_Store
+backend.zip
+.terraform/

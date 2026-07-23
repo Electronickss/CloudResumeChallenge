@@ -1,4 +1,4 @@
-const API_URL = "YOUR_API_GATEWAY_URL";
+const API_URL = "https://n7v42sywek.execute-api.us-east-1.amazonaws.com/count";
 
 async function fetchVisitorCount() {
   const counterEl = document.getElementById("visitor-count");
